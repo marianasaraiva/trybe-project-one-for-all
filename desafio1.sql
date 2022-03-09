@@ -102,7 +102,7 @@ VALUES
 
 INSERT INTO SpotifyClone.Cancoes (cancoes, duracao_segundos, artista_id, album_id)
 VALUES
-  ('Soul For Us"', 200, 1, 1),
+  ('Soul For Us', 200, 1, 1),
   ('Reflections Of Magic', 163, 1, 1),
   ('Dance With Her Own', 116, 1, 1),
   ('Troubles Of My Inner Fire', 203, 1, 2),  
