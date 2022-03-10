@@ -1,3 +1,6 @@
+-- CASE: https://www.w3schools.com/sql/sql_case.asp.
+-- REPLACE: https://www.w3schools.com/sql/func_mysql_replace.asp
+
 SELECT
 	cancoes AS `nome_musica`,
   CASE
