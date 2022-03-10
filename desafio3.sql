@@ -1,5 +1,5 @@
 SELECT
-  usuario AS usuario,
+  U.usuario AS `usuario`,
   COUNT(HR.cancoes_id) AS `qtde_musicas_ouvidas`,
   ROUND(SUM(C.duracao_segundos)/60, 2) AS `total_minutos`
 FROM SpotifyClone.Usuario AS U
